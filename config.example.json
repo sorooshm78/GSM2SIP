@@ -1,0 +1,10 @@
+{
+  "pcm_path": "/org/bluealsa/hci0/dev_11_22_33_44_55_66/hfphf/source",
+  "sip": {
+    "server": "sip.example.com",
+    "port": 52370,
+    "user": "your_username",
+    "password": "your_password",
+    "extension": "1005"
+  }
+}
